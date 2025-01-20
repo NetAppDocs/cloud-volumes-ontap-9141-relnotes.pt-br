@@ -749,7 +749,6 @@
   <block id="1222cf807490df82fd7e0146eb6798c1" category="paragraph">Quando a janela de manutenção for anunciada, o nó parceiro do nó de destino executará um takeover. Quando a manutenção estiver concluída, um giveback será iniciado. Após a giveback, espera-se que o par HA retorne a um estado saudável. Se isso não ocorrer, entre em Contato com o suporte da NetApp para obter assistência. Observe que os eventos de manutenção são direcionados a uma das VMs em um par de HA de cada vez e, normalmente, ambos os nós são direcionados em um período de tempo relativamente curto.</block>
   <block id="1355c3042f61af06b4a61506de6e8ad1" category="paragraph">Os clientes CIFS/SMB que usam compartilhamentos CIFS não continuamente disponíveis do Cloud Volumes ONTAP sofrerão uma perda de sessão, tanto quando ocorre uma aquisição quanto quando o agregado que a sessão está usando é devolvido ao nó inicial do agregado. Esta é uma limitação imposta pelo próprio protocolo CIFS/SMB. Os clientes podem querer usar produtos de terceiros para evitar problemas que possam surgir com a aquisição e a giveback. Para obter mais assistência, entre em Contato com o suporte da NetApp.</block>
   <block id="fd03e656adaf90d76d9f033d590bdd69" category="sidebar">Essas notas de versão descrevem novos recursos, limitações e problemas conhecidos do Cloud Volumes ONTAP 9.14.1.</block>
-  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="sidebar">Notas de versão do Cloud Volumes ONTAP 9.14.1</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Comece agora</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">O que há de novo</block>
   <block id="8efc36afc2e7202a9c9bda00b8e8a75d" category="sidebar">Visão geral do licenciamento</block>
@@ -779,4 +778,8 @@
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link">Veja a lista de bugs corrigidos no patch P9</block>
   <block id="fb8ea0e4d51a0d0169a671ee181b9aaf" category="paragraph"><block ref="2b0276e874ba4b91c515b88422e5a6f6" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
   <block id="f1786ba391739a1a365a117fb19de2ea" category="sidebar">Notas de versão do Cloud Volumes ONTAP 9.14.1</block>
+  <block id="dcfb927b1f6b73f1bfaae1d56a4950bf" category="section-title">9.14.1 P10 (20 de janeiro de 2025)</block>
+  <block id="78571fb34d82664f7485b0ab5ac3147e" category="paragraph">O patch 9.14.1 P10 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link">Veja a lista de bugs corrigidos no patch P10</block>
+  <block id="59bb8174658546e00a502e06d274f287" category="paragraph"><block ref="fe45cd9e277846676a08a57720dc0074" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
 </blocks>
