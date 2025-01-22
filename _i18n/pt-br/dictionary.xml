@@ -782,4 +782,6 @@
   <block id="78571fb34d82664f7485b0ab5ac3147e" category="paragraph">O patch 9.14.1 P10 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link">Veja a lista de bugs corrigidos no patch P10</block>
   <block id="59bb8174658546e00a502e06d274f287" category="paragraph"><block ref="fe45cd9e277846676a08a57720dc0074" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
+  <block id="c3647f40e3574e0e6f49e20c19135bfa" category="section-title">Limitações com o uso de extensões Azure VM</block>
+  <block id="9d167ed7d52d81da8d83590ec3b5a4af" category="paragraph">O Cloud Volumes ONTAP não oferece suporte a extensões de máquina virtual (VM) do Azure e aplicativos de VM em uma implantação. O uso do Cloud Volumes ONTAP no Azure com extensões de VM causa atrasos nas operações e a NetApp recomenda evitá-las.</block>
 </blocks>
