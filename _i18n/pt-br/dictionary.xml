@@ -685,8 +685,6 @@
   <block id="ac49adbb868ecf707179d04fceda2832" category="summary">O Cloud Volumes ONTAP 9.14.1 inclui uma nova melhoria.</block>
   <block id="6fd75df88e7a8fb6a734b8841088b891" category="doc">Novidades do Cloud Volumes ONTAP 9.14.1</block>
   <block id="8e6d22a522445e96c6b1493b0bb48d22" category="paragraph">O Cloud Volumes ONTAP 9.14.1 inclui novos aprimoramentos.</block>
-  <block id="9889b7a9df56580016f59ccd942fb1d1" category="inline-link">Notas de versão do BlueXP</block>
-  <block id="4bdb15bfe1bad472d818dc31e8f53185" category="paragraph">Recursos e aprimoramentos adicionais também são introduzidos nas versões mais recentes do BlueXP . Consulte<block ref="c7887e85c6060ae2594d873a0f2ae025" category="inline-link-rx"></block> para obter detalhes.</block>
   <block id="890194399bbc46a6d256318488025c18" category="section-title">9.14.1 P7 (29 de agosto de 2024)</block>
   <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">O patch 9.14.1 P7 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">Veja a lista de bugs corrigidos no patch P7</block>
@@ -695,11 +693,9 @@
   <block id="94a5465e8be6f23cc0181f68d678ef00" category="paragraph">O patch 9.14.1 P6 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="4d90d21642c7222312363da000d7409f" category="inline-link">Veja a lista de bugs corrigidos no patch P6</block>
   <block id="bc5568aec017ad2e5cf0a5e90091f4c6" category="paragraph"><block ref="c6ea3d1829515f9d3bb15b101f831fb6" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
-  <block id="66180e9a57ad4027234d8183446c7a04" category="section-title">9.14.1 P5 (3 de julho de 2024)</block>
   <block id="e1f03013c61788fb5e2f4ed607635c9e" category="paragraph">O patch 9.14.1 P5 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="e890150484086859b9a5078abe9c6f20" category="inline-link">Veja a lista de bugs corrigidos no patch P5</block>
   <block id="41bc1b68f5f6d85777fccab5ddee8ac6" category="paragraph"><block ref="925a0a2220d407e02dfef5e108b8697f" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
-  <block id="4ab1c34741185cd80489b44a40b814b1" category="section-title">9.14.1 P4 (3 de julho de 2024)</block>
   <block id="837904c1ddf0b7876964700c1d566165" category="paragraph">O patch 9.14.1 P4 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="cae74b75cb879fa6011c4bc1e9acafed" category="inline-link">Veja a lista de bugs corrigidos no patch P4</block>
   <block id="dc033fa9dc958e07ea76e8e2612bbe5a" category="paragraph"><block ref="3204441b14795bb980671e5731eb2ab7" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
@@ -707,13 +703,10 @@
   <block id="595490a543bba780b40f8b48736870a0" category="paragraph">O patch 9.14.1 P2 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="ce5d0c77f167b881391469fc27895727" category="inline-link">Veja a lista de bugs corrigidos no patch P2</block>
   <block id="fe80ff34632bdc174d0d3a2e265b5e0c" category="paragraph"><block ref="25faf8057d466be20595f224ab406816" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
-  <block id="aaab5cb712b0e4d29126565b92a93c7e" category="section-title">9.14.1 P1 (1 de abril de 2024)</block>
   <block id="569a9a2a6db2c8239fa51b37ad08f488" category="paragraph">O patch 9.14.1 P1 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="a9380d77cd3c45a5f15f09b231323443" category="inline-link">Veja a lista de bugs corrigidos no patch P1</block>
   <block id="62715934d07ed630b9c606bc666abad5" category="paragraph"><block ref="ae4674889e9a15806f2ba04f7b499642" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
-  <block id="d1558822f85e59c70aa33c6ac2678132" category="section-title">9.14.1 GA (5 de março de 2024)</block>
   <block id="10715dcbdc97f5e0e1debf8bac3a4ba4" category="paragraph">A versão de disponibilidade geral do Cloud Volumes ONTAP 9.14.1 já está disponível na AWS, Azure e Google Cloud.</block>
-  <block id="a5cb6650acb9d98dcbbf608aa3a4fba0" category="section-title">9.14.1 RC1 (6 de dezembro de 2023)</block>
   <block id="08c5c3a5955675754c56665896b714d2" category="paragraph">O Release Candidate 1 do Cloud Volumes ONTAP 9.14.1 já está disponível na AWS, Azure e Google Cloud.</block>
   <block id="b5cb41a6703cf18b4cecd5a0817f91cf" category="section-title">Notas de atualização</block>
   <block id="dfb01a7b38cba8284269f37f00622809" category="paragraph">Leia estas notas para saber mais sobre a atualização para esta versão.</block>
@@ -792,8 +785,19 @@
   <block id="495d780655aafad9cdc63ad43c4708ab" category="paragraph">O patch 9.14.1 P12 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link">Veja a lista de bugs corrigidos no patch P12</block>
   <block id="477ce4e27c1b6137a153a6e12cfa3c90" category="paragraph"><block ref="f0e84c66d7347cef5d4f5a78d35c3b77" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
-  <block id="b230e5699ea78233e8f229fdfbafa43f" category="section-title">9.14.1 P13 (4 de julho de 2025)</block>
   <block id="6a996de1fd3a56e9a714f952ffd2b260" category="paragraph">O patch 9.14.1 P13 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="fc8e67b0bd5bbf26831e34a1066ac996" category="inline-link">Veja a lista de bugs corrigidos no patch P13</block>
   <block id="c2495ea409706fce5a50dfde99c663c3" category="paragraph"><block ref="fb611ab099b59582e4ab2f68ae091270" category="inline-link-rx"></block> (É necessário iniciar sessão no site de suporte da NetApp).</block>
+  <block id="bc2d1afe4b7b88784be36363245bd652" category="inline-link">Notas de versão do Cloud Volumes ONTAP</block>
+  <block id="94a7e8772ecb896c3e13f41584c76ab7" category="paragraph">Recursos e aprimoramentos adicionais também são introduzidos nas versões mais recentes do NetApp Console. Veja o<block ref="f96aab045327bc06764221211f20005a" category="inline-link-rx"></block> para mais detalhes.</block>
+  <block id="be8e90f1488f5ce6bacc6a2fec278f3c" category="section-title">9.14.1 P14 (16 de outubro de 2025)</block>
+  <block id="7bb3ecef1d63efb44c475b8de45c9490" category="paragraph">O patch 9.14.1 P14 agora está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O Console solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
+  <block id="c476446cae3f83bea1b304ddc122e040" category="inline-link">Veja a lista de bugs corrigidos no patch P14</block>
+  <block id="6e7685ac3eb1b0a662911990572ccdbb" category="paragraph"><block ref="5c7929a27b95423f8c8a484e36ed754c" category="inline-link-rx"></block>(É necessário fazer login no site de suporte da NetApp ).</block>
+  <block id="596037dcc77cc2e5455dc718a226889e" category="section-title">9.14.1 P13 (04 de julho de 2025)</block>
+  <block id="19058f19f7fd1c373d3fee4e9d6cf866" category="section-title">9.14.1 P5 (03 de julho de 2024)</block>
+  <block id="aeb0ea64042ce5650ceda8ff89db47d8" category="section-title">9.14.1 P4 (03 de julho de 2024)</block>
+  <block id="c9e1616df71e67fe266e846006e3ecb8" category="section-title">9.14.1 P1 (01 de abril de 2024)</block>
+  <block id="f028fcd0284047124594722c75555ce3" category="section-title">9.14.1 GA (05 de março de 2024)</block>
+  <block id="0674c14b73a943e34d8e05afbc0eb71f" category="section-title">9.14.1 RC1 (06 de dezembro de 2023)</block>
 </blocks>
