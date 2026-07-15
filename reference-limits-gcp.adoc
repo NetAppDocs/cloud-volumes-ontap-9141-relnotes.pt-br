@@ -18,6 +18,7 @@ O Cloud Volumes ONTAP tem limites de configuração de storage para fornecer ope
 
 
 
+[[maximum-system-capacity-by-license]]
 == Capacidade máxima do sistema por licença
 
 A capacidade máxima do sistema para um sistema Cloud Volumes ONTAP é determinada pela sua licença. A capacidade máxima do sistema inclui storage baseado em disco e storage de objetos usado para categorização de dados.
@@ -56,6 +57,7 @@ Não, não. Os dados em um par de HA são espelhados de forma síncrona entre os
 
 
 
+[[aggregate-limits]]
 == Limites agregados
 
 O Cloud Volumes ONTAP agrupa discos do Google Cloud Platform em _agregados_. Agregados fornecem storage para volumes.
@@ -89,6 +91,7 @@ Notas:
 
 
 
+[[disk-and-tiering-limits]]
 == Limites de disco e disposição em camadas
 
 A tabela abaixo mostra a capacidade máxima do sistema com discos somente e com a disposição em camadas de discos e dados inativos no storage de objetos. Os limites de disco são específicos para discos que contêm dados de usuário. Os limites não incluem o disco de inicialização, o disco raiz ou o NVRAM.
@@ -117,6 +120,7 @@ Este limite é definido por limites de máquinas virtuais no Google Cloud Platfo
 
 
 
+[[storage-vm-limits]]
 == Limites de VM de storage
 
 Algumas configurações permitem que você crie VMs de storage adicionais (SVMs) para o Cloud Volumes ONTAP.
@@ -161,6 +165,7 @@ As VMs de storage configuradas para recuperação de desastres (DR) não exigem 
 
 
 
+[[logical-storage-limits]]
 == Limites lógicos de armazenamento
 
 [cols="22,22,56"]
@@ -203,6 +208,7 @@ As VMs de storage configuradas para recuperação de desastres (DR) não exigem 
 
 
 
+[[iscsi-storage-limits]]
 == Limites de armazenamento iSCSI
 
 [cols="3*"]
@@ -244,6 +250,7 @@ As VMs de storage configuradas para recuperação de desastres (DR) não exigem 
 |===
 
 
+[[cloud-volumes-ontap-ha-pairs-do-not-support-immediate-storage-giveback]]
 == Os pares de HA do Cloud Volumes ONTAP não são compatíveis com storage imediato para giveback
 
 Depois que um nó é reiniciado, o parceiro deve sincronizar os dados antes que ele possa retornar o armazenamento. O tempo necessário para sincronizar os dados depende da quantidade de dados gravados pelos clientes enquanto o nó estava inativo e da velocidade de gravação de dados durante o tempo de giveback.
